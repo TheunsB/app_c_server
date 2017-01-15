@@ -1,14 +1,14 @@
 # app_c_server
 Generic Server Application
 
-# Data Layer
+## Data Layer
 
 Will use hibernate and MySQL
 
-# Rest API
+## Rest API
 
-Using EE6 java RESTful library and Jersey servlets
+Will use JAX-RS RESTful web services and Jersey implementation
 
-# Disclaimer
+### Disclaimer
 
 This project is a sandbox, simply meant to be a collection of useful tools
